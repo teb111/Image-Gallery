@@ -1,2 +1,2 @@
 # Image-Gallery
-An Image Gallery with inspiration
+This is just a dummy Image Gallery with inspiration
